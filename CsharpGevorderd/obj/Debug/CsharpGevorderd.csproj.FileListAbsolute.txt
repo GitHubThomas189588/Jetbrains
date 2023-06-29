@@ -1,0 +1,7 @@
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\bin\Debug\CsharpGevorderd.exe
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\bin\Debug\CsharpGevorderd.pdb
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\obj\Debug\CsharpGevorderd.csproj.AssemblyReference.cache
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\obj\Debug\CsharpGevorderd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\obj\Debug\CsharpGevorderd.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\obj\Debug\CsharpGevorderd.exe
+C:\Users\Thomas\RiderProjects\CsharpGevorderd\CsharpGevorderd\obj\Debug\CsharpGevorderd.pdb
