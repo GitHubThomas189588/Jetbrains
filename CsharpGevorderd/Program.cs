@@ -111,7 +111,7 @@ class Program
                 {
                     Console.WriteLine(smartphones[i]);
                 }
-                //bvgycjhbugybjk
+                //bvgycjhbugybjkhjgbuvyhj
                 Console.WriteLine("Gebruik van een foreach-loop:");
                 foreach (string phone in smartphones)
                 {
